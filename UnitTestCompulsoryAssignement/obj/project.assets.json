@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rania\\Desktop\\Assignment\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\UnitTestCompulsoryAssignement.csproj",
+      "projectUniqueName": "C:\\Users\\rania\\source\\repos\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\UnitTestCompulsoryAssignement.csproj",
       "projectName": "UnitTestCompulsoryAssignement",
-      "projectPath": "C:\\Users\\rania\\Desktop\\Assignment\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\UnitTestCompulsoryAssignement.csproj",
+      "projectPath": "C:\\Users\\rania\\source\\repos\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\UnitTestCompulsoryAssignement.csproj",
       "packagesPath": "C:\\Users\\rania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rania\\Desktop\\Assignment\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\obj\\",
+      "outputPath": "C:\\Users\\rania\\source\\repos\\CompulsoryAssignment\\UnitTestCompulsoryAssignement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rania\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\rania\\Desktop\\Assignment\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj": {
-              "projectPath": "C:\\Users\\rania\\Desktop\\Assignment\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj"
+            "C:\\Users\\rania\\source\\repos\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj": {
+              "projectPath": "C:\\Users\\rania\\source\\repos\\CompulsoryAssignment\\CompulsoryAssignment\\CompulsoryAssignment.csproj"
             }
           }
         }
