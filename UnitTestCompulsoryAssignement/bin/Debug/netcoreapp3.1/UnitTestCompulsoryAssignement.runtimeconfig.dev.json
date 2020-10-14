@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rania\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rania\\.nuget\\packages"
+    ]
+  }
+}
